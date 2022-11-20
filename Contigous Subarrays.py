@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  7 21:16:49 2022
 
-@author: filip
+@author: Filipe Pacheco
 
 """
 

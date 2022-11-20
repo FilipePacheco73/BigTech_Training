@@ -2,7 +2,8 @@
 """
 Created on Thu Feb 10 22:09:03 2022
 
-@author: filip
+@author: Filipe Pacheco
+
 """
 
 import math
